@@ -2,9 +2,10 @@
 
 <img src="http://www.sobigdata.eu/sites/default/files/logo-SoBigData-DEFINITIVO_small_0.png" width="200px" />
 
+ 
+## Session: Hands-on JupyterHub service and SoBigData Libraries 
 
-### Session: Hands-on JupyterHub service and SoBigData Libraries** 
-**Chair:** [Giulio Rossetti](http://giuliorossetti.net/) - CNR (45 min).
+**Instructor:** [Giulio Rossetti](http://giuliorossetti.net/) - CNR (45 min).
 
 **Website:** [Tutorial](http://www.sobigdata.eu/events/sobigdataeu-research-infrastructure-empower-data-science-analysis)
 
