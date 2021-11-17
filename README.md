@@ -1,4 +1,4 @@
-# IEEE DSAA 2021 - SoBigData Tutorial
+# Humane-AI-Net - SoBigData Tutorial
 
 <img src="http://www.sobigdata.eu/sites/default/files/logo-SoBigData-DEFINITIVO_small_0.png" width="200px" />
 
@@ -7,7 +7,7 @@
 
 **Instructor:** [Giulio Rossetti](http://giuliorossetti.net/) - CNR (45 min).
 
-**Website:** [Tutorial](http://www.sobigdata.eu/events/sobigdataeu-research-infrastructure-empower-data-science-analysis)
+**Website:** [Tutorial](http://sobigdata.eu/events/sobigdata-humane-ai-net)
 
 **Description:**
 This first hands-on session focuses on the libraries and methods developed within the SoBigData consortium. 
