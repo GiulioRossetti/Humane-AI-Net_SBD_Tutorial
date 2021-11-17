@@ -5,7 +5,7 @@
  
 ## Session: Hands-on JupyterHub service and SoBigData Libraries 
 
-**Instructor:** [Giulio Rossetti](http://giuliorossetti.net/) - CNR (45 min).
+**Instructor:** [Giulio Rossetti](http://giuliorossetti.net/) - CNR (30 min).
 
 **Website:** [Tutorial](http://sobigdata.eu/events/sobigdata-humane-ai-net)
 
